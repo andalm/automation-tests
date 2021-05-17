@@ -161,7 +161,8 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
 - Paso 2 ejecutar `backstop test`
 - Paso 3 ejecutar `backstop approve`
 - Paso 4 ejecutar `backstop test`
-El reporte detallado lo puede encontrar en `${PATH_LOCAL_REPOSITORY}/automation-tests/kraken-given-when-then/TallerKraken/backstopjs/backstop_data/html_report/index.html`
+- El reporte detallado lo puede encontrar en `${PATH_LOCAL_REPOSITORY}/automation-tests/kraken-given-when-then/TallerKraken/backstopjs/backstop_data/html_report/index.html`
+
 **Escenarios de prueba (VRT)**
 
 Cubre del escenario 6 al 10
