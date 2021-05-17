@@ -1,10 +1,10 @@
-report({
+{
   "testSuite": "BackstopJS",
   "tests": [
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_1_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_1_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_1_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_1_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_1",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_2_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_2_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_2_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_2_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_2",
@@ -52,7 +52,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_3_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_3_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_3_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_3_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_3",
@@ -76,7 +76,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_4_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_4_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_4_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_4_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_4",
@@ -100,7 +100,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_5_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_5_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_5_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_5_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_5",
@@ -124,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_6_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_6_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_6_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_6_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_6",
@@ -148,7 +148,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_7_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_7_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_7_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_7_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_7",
@@ -172,7 +172,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_8_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_8_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_8_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_8_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_8",
@@ -196,7 +196,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_9_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_9_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_9_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_9_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_9",
@@ -220,7 +220,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_10_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_10_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_10_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_10_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_10",
@@ -244,7 +244,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_11_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_11_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_11_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_11_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_11",
@@ -268,7 +268,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_12_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_12_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_12_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_12_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_12",
@@ -292,7 +292,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_13_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_13_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_13_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_13_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_13",
@@ -316,7 +316,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario6_14_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario6_14_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario6_14_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario6_14_0_document_0_ubuntu.png",
         "label": "ghost_escenario6_14",
@@ -339,17 +339,18 @@ report({
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/ghost_ghost_escenario8_1_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_1_0_document_0_ubuntu.png",
-        "selector": "document",
-        "fileName": "ghost_ghost_escenario8_1_0_document_0_ubuntu.png",
+        "reference": "../bitmaps_reference/ghost_ghost_escenario8_1_0__0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_1_0__0_ubuntu.png",
+        "selector": "",
+        "fileName": "ghost_ghost_escenario8_1_0__0_ubuntu.png",
         "label": "ghost_escenario8_1",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "../kraken-week-5/reports/d70e6dc5b7f752d95de1674b72c944d208aaeccb22f30841c65d09d2bec82a95/screenshots/ghost_escenario7_1_ubuntu.png",
+        "url": "../kraken-week-5/reports/d70e6dc5b7f752d95de1674b72c944d208aaeccb22f30841c65d09d2bec82a95/screenshots/ghost_escenario7_1_ubuntu.png.png",
         "referenceUrl": "../kraken-week-6/reports/b5adc21fe555628a06c68d7d81fc460a649d5c66010749e3fe37923356f399db/screenshots/ghost_escenario7_1_ubuntu.png",
         "expect": 0,
         "viewportLabel": "ubuntu",
+        "engineErrorMsg": "net::ERR_FILE_NOT_FOUND at file:///Users/alexander.rivera/Documents/MISO/pruebas-automatizadas/automation-tests/kraken-given-when-then/TallerKraken/kraken-week-5/reports/d70e6dc5b7f752d95de1674b72c944d208aaeccb22f30841c65d09d2bec82a95/screenshots/ghost_escenario7_1_ubuntu.png.png",
         "diff": {
           "isSameDimensions": true,
           "dimensionDifference": {
@@ -364,7 +365,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_2_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_2_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_2_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_2_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_2",
@@ -388,7 +389,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_3_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_3_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_3_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_3_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_3",
@@ -412,7 +413,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_4_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_4_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_4_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_4_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_4",
@@ -436,7 +437,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_5_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_5_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_5_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_5_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_5",
@@ -460,7 +461,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_6_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_6_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_6_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_6_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_6",
@@ -484,7 +485,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario8_7_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario8_7_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario8_7_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario8_7_0_document_0_ubuntu.png",
         "label": "ghost_escenario8_7",
@@ -508,7 +509,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario10_1_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_1_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_1_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario10_1_0_document_0_ubuntu.png",
         "label": "ghost_escenario10_1",
@@ -531,17 +532,18 @@ report({
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/ghost_ghost_escenario10_2_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_2_0_document_0_ubuntu.png",
-        "selector": "document",
-        "fileName": "ghost_ghost_escenario10_2_0_document_0_ubuntu.png",
+        "reference": "../bitmaps_reference/ghost_ghost_escenario10_2_0__0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_2_0__0_ubuntu.png",
+        "selector": "",
+        "fileName": "ghost_ghost_escenario10_2_0__0_ubuntu.png",
         "label": "ghost_escenario10_2",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "../kraken-week-5/reports/17774f3a3bb7088aff60af681773d54deff1e8f10bac41c7c5c92ecb31aae65d/screenshots/47c7f84cc426238465a1807e.png",
+        "url": "../kraken-week-5/reports/17774f3a3bb7088aff60af681773d54deff1e8f10bac41c7c5c92ecb31aae65d/screenshots/47c7f84cc426238465a1807e.png.png",
         "referenceUrl": "../kraken-week-6/reports/c45b5774df3edd095b8d78bc0d531375e66151cfa72c7605e3f86f6ac6fa6c0f/screenshots/aa4eafc5335523ee5aae7ba0.png",
         "expect": 0,
         "viewportLabel": "ubuntu",
+        "engineErrorMsg": "net::ERR_FILE_NOT_FOUND at file:///Users/alexander.rivera/Documents/MISO/pruebas-automatizadas/automation-tests/kraken-given-when-then/TallerKraken/kraken-week-5/reports/17774f3a3bb7088aff60af681773d54deff1e8f10bac41c7c5c92ecb31aae65d/screenshots/47c7f84cc426238465a1807e.png.png",
         "diff": {
           "isSameDimensions": true,
           "dimensionDifference": {
@@ -556,7 +558,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario10_3_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_3_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_3_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario10_3_0_document_0_ubuntu.png",
         "label": "ghost_escenario10_3",
@@ -580,7 +582,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario10_4_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_4_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_4_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario10_4_0_document_0_ubuntu.png",
         "label": "ghost_escenario10_4",
@@ -604,7 +606,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario10_5_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_5_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_5_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario10_5_0_document_0_ubuntu.png",
         "label": "ghost_escenario10_5",
@@ -628,7 +630,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/ghost_ghost_escenario10_6_0_document_0_ubuntu.png",
-        "test": "../bitmaps_test/20210516-225620/ghost_ghost_escenario10_6_0_document_0_ubuntu.png",
+        "test": "../bitmaps_test/20210516-225452/ghost_ghost_escenario10_6_0_document_0_ubuntu.png",
         "selector": "document",
         "fileName": "ghost_ghost_escenario10_6_0_document_0_ubuntu.png",
         "label": "ghost_escenario10_6",
@@ -651,4 +653,4 @@ report({
     }
   ],
   "id": "ghost"
-});
+}
