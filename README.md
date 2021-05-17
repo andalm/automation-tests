@@ -153,7 +153,7 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
 
 **Instalación**
 
-- Paso 2 ejecutar `npm install -g backstopjs`
+- Paso 1 ejecutar `npm install -g backstopjs`
 
 **Instrucciones de ejecución:**
 
