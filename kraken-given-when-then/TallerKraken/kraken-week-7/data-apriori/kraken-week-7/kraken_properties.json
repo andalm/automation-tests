@@ -1,0 +1,23 @@
+{
+        "@user1": {
+                "USER" : "jarivera94@hotmail.com",
+                "PASSWORD": "Agosto1994*",
+                "LOGIN": "http://192.168.0.4:2368/ghost/#/signin",
+                 "RELOAD_LOGIN": "http://192.168.0.4:2368/ghost/#/signin",
+                "LIST_POST": "http://192.168.0.4:2368/ghost/#/posts",
+                "RELOAD_POST" : "http://192.168.0.4:2368/ghost/#/posts",
+                "POST_CREATOR": "http://192.168.0.4:2368/ghost/#/editor/post",
+                "TITLE_POST": "Automation with kraken",
+                "DESCRIPTION_POST": "Description with some post",
+                "TITLE_POST_EDIT": "Automation with kraken edited",
+                "DESCRIPTION_POST_EDIT": "Description with some post edited",
+                "POST_CREATOR_2": "http://192.168.0.4:2368/ghost/#/editor/post",
+                "TITLE_POST_2": "Automation with kraken second post",
+                "DESCRIPTION_POST_2": "Description with some post second post",
+                "RELOAD_POST_2" : "http://192.168.0.4:2368/ghost/#/posts",
+                "TITLE_POST_EDITED_2": "Automation with kraken second post",
+                "DESCRIPTION_POST_EDITED_2": "Description with some post second post",
+                "email_special_characters":"'''``@hotmail.com","email_spaces":"shshsnsg @ hhdh .com","email":"bfredson0@goo.ne.jp","number":"06-986-3530","special":"","text":"Annabal","url":"http://dummyimage.com/122x100.png/5fa2dd/ffffff","text2":"Brockie","empty":"","empty_text":"","text1":"klshdkjfhawklhdkysadhkalshdywakdhysagbdyasydbaskdbaksdkhsadykashdlkasbdlkas",
+                "BIG_TITLE": "klklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgsssss"
+         }
+}
