@@ -13,11 +13,13 @@
                 "DESCRIPTION_POST_EDIT": "Description with some post edited",
                 "POST_CREATOR_2": "http://192.168.0.4:2368/ghost/#/editor/post",
                 "TITLE_POST_2": "Automation with kraken second post",
+		"STAFF": "http://192.168.0.4:2368/ghost/#/staff",
+		"valid_email":"jriverao1@uniandes.edu.co",
                 "DESCRIPTION_POST_2": "Description with some post second post",
                 "RELOAD_POST_2" : "http://192.168.0.4:2368/ghost/#/posts",
                 "TITLE_POST_EDITED_2": "Automation with kraken second post",
                 "DESCRIPTION_POST_EDITED_2": "Description with some post second post",
-                "email_special_characters":"'''``@hotmail.com","email_spaces":"shshsnsg @ hhdh .com","email":"bfredson0@goo.ne.jp","number":"06-986-3530","special":"","text":"Annabal","url":"http://dummyimage.com/122x100.png/5fa2dd/ffffff","text2":"Brockie","empty":"","empty_text":"","text1":"klshdkjfhawklhdkysadhkalshdywakdhysagbdyasydbaskdbaksdkhsadykashdlkasbdlkas",
+                "email_without_invalid_domain":"jrivera01@uniandes","email_special_characters":"'''``@hotmail.com","email_spaces":"shshsnsg @ hhdh .com","email":"bfredson0@goo.ne.jp","number":"06-986-3530","special":"","text":"Annabal","url":"http://dummyimage.com/122x100.png/5fa2dd/ffffff","text2":"Brockie","empty":"","empty_text":"","text1":"klshdkjfhawklhdkysadhkalshdywakdhysagbdyasydbaskdbaksdkhsadykashdlkasbdlkas",
                 "BIG_TITLE": "klklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklkljkjjhjkghjghfgdghdghdghdgfdfgdrdrtdrgsssss"
          }
 }
