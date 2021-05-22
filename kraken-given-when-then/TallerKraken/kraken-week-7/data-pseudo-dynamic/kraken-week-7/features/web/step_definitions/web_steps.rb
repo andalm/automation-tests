@@ -19,9 +19,15 @@ if ENV["ADB_DEVICE_ARG"].nil?
   	sleep 2
   end
 
-  Then(/^I claer text having css selector "([^\"]*)"$/) do |selector|
+  Then(/^I clear text having css selector "([^\"]*)"$/) do |selector|
     @driver.find_element(:css, selector).clear()
     sleep 2
   end
 
+
+
+  Then(/^I clear text having id "([^\"]*)"$/) do |id|
+    @driver.find_element(:id, id).clear()
+    sleep 2
+  end
 end
