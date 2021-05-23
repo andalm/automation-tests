@@ -1,4 +1,4 @@
-# Entrega Semana 6
+# Entrega Semana 7
 
 ### Integrantes del Equipo:
 
@@ -105,6 +105,20 @@ _Opcion 2_
 
 Cubre del escenario 1 al 5
 
+### Faker JS
+
+**Instalación**
+
+- Ubíquese en la carpeta `automation-tests/cypress-page-object`
+- Corra el comando `npm install`
+
+**Instrucciones de ejecución:**
+
+- Una vez esté en esta la carpeta `automation-tests/cypress-page-object`, corra el comando `node datapool`.
+- El anterior paso generará los fixtures necesarios para las pruebas con datos a-priori en `automation-tests/cypress-page-object/cypress/fixtures`.
+- Todos los fixtures son en formato json y los dejamos como entidades del dominio para que sea más sencillo identificarlos.
+- Las pruebas se corren igual que en las anteriores entregas, ver [Ejecución de pruebas con Cypress](https://github.com/andalm/automation-tests#cypress) y correr las pruebas contenidas en `automation-tests/cypress-page-object/cypress/integration/week7`
+
 ---
 
 ### Kraken
@@ -148,7 +162,6 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
   - Cambiar las ip y puerto, para las propiedades LOGIN, RELOAD_LOGIN, LIST_POST, RELOAD_POST, POST_CREATOR, POST_CREATOR_2, RELOAD_POST_2, esto con la ip y el puerto en donde esta corriendo la instancia de ghost
 - Paso 4 ejecutar `bundle exec kraken-mobile run --properties=kraken_properties.json`
 
-
 ### Backstop JS
 
 **Instalación**
@@ -166,3 +179,16 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
 **Escenarios de prueba (VRT)**
 
 Cubre del escenario 6 al 10
+
+### Para kraken
+
+**Instalación**
+
+- Paso 1
+- Paso 2
+
+**Instrucciones de ejecución:**
+
+- Paso 1
+- Paso 2
+- Paso 3
