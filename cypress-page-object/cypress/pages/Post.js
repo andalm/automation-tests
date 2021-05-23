@@ -58,7 +58,7 @@ class Post {
     cy.get(this._title).then($fields => {
       let field =  cy.wrap($fields.get(0));
       field.clear();
-      field.type(`${value} ${this._random()}`);
+      field.type(`${value}`);
     });
 
     return this;
@@ -66,7 +66,7 @@ class Post {
 
   fillText(value) {
     cy.get(this._text)
-      .invoke('html', `<p data-koenig-dnd-droppable="true">${value} ${this._random()}</p>`);
+      .invoke('html', `<p data-koenig-dnd-droppable="true">${value}</p>`);
 
     this._display.screenshot();
     return this;
