@@ -162,6 +162,26 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
   - Cambiar las ip y puerto, para las propiedades LOGIN, RELOAD_LOGIN, LIST_POST, RELOAD_POST, POST_CREATOR, POST_CREATOR_2, RELOAD_POST_2, esto con la ip y el puerto en donde esta corriendo la instancia de ghost
 - Paso 4 ejecutar `bundle exec kraken-mobile run --properties=kraken_properties.json`
 
+
+Para ejecutar los escenarios de pruebas con datos aleatorios se deben ejecutar los siguientes pasos:
+
+- Pasos para ejecutar los escenarios de prueba **Datos a-priori**
+  -  Debemos de estar ubicados en el directorio `data-apriori/kraken-week-7`  
+  -  Debemos de asegurar que tenemos conectividad entre nuestra máquina virtual y nuestro servidor de ghost
+  -  Debemos cambiar en el archivo kraken_properties.json los siguientes valores
+    - Cambiar la propiedad USER por el usuario registrado en ghost
+    - Cambiar la propiedad PASSWORD por el password registrado en la app para el usuario anterior
+    - Cambiar las ip y puerto, para las propiedades LOGIN, RELOAD_LOGIN, LIST_POST, RELOAD_POST, POST_CREATOR, POST_CREATOR_2, RELOAD_POST_2, STAFF, esto con la ip y el puerto en donde esta corriendo la instancia de ghost
+  - Ejecutar `bundle exec kraken-mobile run --properties=kraken_properties.json`
+ 
+- Pasos para ejecutar los escenarios de prueba **Datos de escenario aleatorio**
+  -  Debemos de estar ubicados en el directorio `data-random/kraken-week-7`  
+  -  Debemos de asegurar que tenemos conectividad entre nuestra máquina virtual y nuestro servidor de ghost
+  -  Debemos cambiar en el archivo kraken_properties.json los siguientes valores
+    - Cambiar la propiedad USER por el usuario registrado en ghost
+    - Cambiar la propiedad PASSWORD por el password registrado en la app para el usuario anterior
+    - Cambiar las ip y puerto, para las propiedades LOGIN, RELOAD_LOGIN, LIST_POST, RELOAD_POST, POST_CREATOR, POST_CREATOR_2, RELOAD_POST_2, STAFF, TAGS esto con la ip y el puerto en donde esta corriendo la instancia de ghost
+- Paso 4 ejecutar `bundle exec kraken-mobile run --properties=kraken_properties.json`
 ### Backstop JS
 
 **Instalación**
@@ -179,16 +199,3 @@ Para correr los la automazacion e2e para la version de ghost 3.42.5 se deben de 
 **Escenarios de prueba (VRT)**
 
 Cubre del escenario 6 al 10
-
-### Para kraken
-
-**Instalación**
-
-- Paso 1
-- Paso 2
-
-**Instrucciones de ejecución:**
-
-- Paso 1
-- Paso 2
-- Paso 3
