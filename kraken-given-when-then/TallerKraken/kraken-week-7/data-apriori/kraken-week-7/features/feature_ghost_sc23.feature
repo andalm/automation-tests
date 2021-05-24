@@ -1,4 +1,4 @@
-Feature: Login and update staff, edit password with pass old valid
+Feature: Login and update staff, edit password
         @user1 @web
         Scenario: Editar staff ingresar editar contraseña ingresando contraseña valida y uno de los campos nuevos vacio
                 Given I navigate to page "<LOGIN>"
@@ -6,7 +6,6 @@ Feature: Login and update staff, edit password with pass old valid
                 And I enter "<PASSWORD>" into input field having id "ember10"
                 And I click on element having id "ember12"
                 And I navigate to page "<STAFF>"
-                And I click on element having css selector ".gh-badge.owner"
-                And I enter "<PASSWORD>" into input field having id "user-password-old"
-		And I enter "empty_text" into input field having id "user-password-new" 
+                And I click on element having css selector ".user-list-item-figure"
+		And I enter "empty_text" into input field having id "user-new-password-verification" 
                 Then I click on element having css selector ".gh-btn-red"
