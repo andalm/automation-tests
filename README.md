@@ -226,3 +226,16 @@ Cubre del escenario 6 al 10
 22. Editar staff ingresar editar contraseña ingresando contraseña válida y uno de los campos nuevos vacio
 23. Editar staff ingresar editar contraseña ingresando contraseña vacio y los campos de verificación diferentes
 24. Editar staff ingresar editar contraseña ingresando contraseña válida y los campos de verificación diferentes
+
+### Escenarios de prueba que usan la estrategia pool de datos (pseudo) aleatorio dinámico:
+
+1. Ingresar con números en correo y sin password
+2. Ingresar con números en correo y texto en password
+3. Invitar un nuevo usuario ingresando el campo email solo números
+4. Invitar un nuevo usuario ingresando el campo email números
+5. Editar staff ingresar número en nombre completo
+6. Editar staff ingresar números en website
+7. Editar staff ingresar números en slug
+8. Crear un nuevo post con título con números y descripción vacía
+9. Crear un nuevo post con título vacio y descripción con números
+10. Crear un nuevo post con título vacio y descripción con alfanumérica
