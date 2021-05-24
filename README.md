@@ -199,3 +199,30 @@ Para ejecutar los escenarios de pruebas con datos aleatorios se deben ejecutar l
 **Escenarios de prueba (VRT)**
 
 Cubre del escenario 6 al 10
+
+### Escenarios de prueba que usan la estrategia pool de datos a-priori:
+
+1. Ingresar texto sin dominio en correo y password vacio
+2. Ingresar texto sin dominio en correo y password
+3. Ingresar con correo separado con espacios el usuario y el dominio con password vacio
+4. Ingresar con correo separado con espacios el usuario y el dominio con password
+5. Ingresar con email y password vacio
+6. Ingresar con email vacio y password
+7. Ingresar usuario con caracteres especiales y password vacio
+8. Ingresar usuario con caracteres especiales y password
+9. Invitar un nuevo usuario ingresando el campo email vacio
+10. Invitar un nuevo usuario ingresando el campo email texto sin dominio
+11. Invitar un nuevo usuario ingresando el campo email texto solo dominio
+12. Invitar un nuevo usuario ingresando el campo email caracteres especiales con dominio
+13. Invitar un nuevo usuario con correo separado con espacios
+14. Invitar un usuario con email válido
+15. Invitar un nuevo usuario ingresando el campo email correo sin .com
+16. Invitar un nuevo usuario ingresando en el campo email  dos correos separados por coma
+17. Editar staff ingresar en correo electronico el usuario con caracteres especiales
+18. Editar staff ingresar en el campo Facebook Profile url que no corresponde a facebook
+19. Editar staff ingresar en el campo Twitter Profile url que no corresponde a twitter
+20. Editar staff ingresar en bio mas de 500 caracteres
+21. Editar staff ingresar editar contraseña ingresando contraseña válida y los campos de nuevo password vacios
+22. Editar staff ingresar editar contraseña ingresando contraseña válida y uno de los campos nuevos vacio
+23. Editar staff ingresar editar contraseña ingresando contraseña vacio y los campos de verificación diferentes
+24. Editar staff ingresar editar contraseña ingresando contraseña válida y los campos de verificación diferentes
