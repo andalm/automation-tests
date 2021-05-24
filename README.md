@@ -239,3 +239,32 @@ Cubre del escenario 6 al 10
 8. Crear un nuevo post con título con números y descripción vacía
 9. Crear un nuevo post con título vacio y descripción con números
 10. Crear un nuevo post con título vacio y descripción con alfanumérica
+
+### Escenarios de prueba que usan la estrategia escenario aleatorio:
+
+1. Editar staff ingresar caracteres especiales en nombre completo
+2. Editar staff ingresar caracteres especiales en website
+3. Editar staff ingresar url sin dominio en website
+4. Editar staff ingresar dos url separadas con espacios en website
+5. Editar staff ingresar texto con caracteres especiales en slug
+6. Editar staff ingresar textos separados con espacios en slug
+7. Crear un nuevo post título con email y descripcion vacía
+8. Crear un nuevo post con título con texto y descripción vacía
+9. Crear un nuevo post con título con alfanuméricos y descripción vacía
+10. Crear un nuevo post con título vacío y descripción con texto
+11. Crear un nuevo post con título vacío y descripción con caracteres especiales
+12. Crear un nuevo post con título y descripción con valores numéricos
+13. Crear un nuevo post con título y descripción con valores caracteres especiales
+14. Crear un nuevo post con título y descripción con valores solo texto
+15. Crear un nuevo post con título y descripción con valores alfanuméricos
+16. Crear un tag con nombre vacío
+17. Crear un tag con nombre texto separado con espacios
+18. Crear un tag con nombre alfanumérico
+19. Crear un tag con nombre numérico
+20. Crear un tag con nombre caracteres especiales
+21. Crear un tag con slug vacío 
+22. Crear un tag con slug texto separado con espacios
+23. Crear un tag con slug alfanumérico
+24. Crear un tag con slug numérico
+25. Crear un tag con slug caracteres especiales
+26. Crear un tag con descripción caracteres especiales
