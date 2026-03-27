@@ -13,7 +13,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     awesome_print (1.9.2)
     backports (3.21.0)
@@ -74,15 +74,15 @@ GEM
     multi_json (1.15.0)
     multi_test (0.1.2)
     necromancer (0.4.0)
-    nokogiri (1.11.3-x86_64-linux)
+    nokogiri (1.18.9-x86_64-linux-gnu)
       racc (~> 1.4)
     parallel (1.14.0)
     pastel (0.7.4)
       equatable (~> 0.6)
       tty-color (~> 0.5)
-    public_suffix (4.0.6)
-    racc (1.5.2)
-    rack (2.2.3)
+    public_suffix (4.0.7)
+    racc (1.8.1)
+    rack (2.2.22)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     regexp_parser (1.8.2)
